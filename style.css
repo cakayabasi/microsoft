@@ -33,4 +33,9 @@ li{
 .right-menu {
 justify-content: right;
 }
-
+.container-menu {
+    display: flex;
+    width: 1000px;
+    margin: 0 auto;
+    align-items: center;
+}
