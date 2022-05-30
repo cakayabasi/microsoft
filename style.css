@@ -1,0 +1,36 @@
+
+#logo{
+    width: 120px;
+}
+*{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+ul{
+    list-style: none;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu-nav{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+display: flex;
+    
+}
+li{
+    padding: 0 10px;
+    text-decoration: none;
+}
+.right-menu {
+justify-content: right;
+}
+
